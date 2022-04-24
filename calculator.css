@@ -1,0 +1,43 @@
+.container{
+    text-align: center;
+    margin: auto;
+    margin-top: 3rem;
+    padding:2rem;
+    padding-top: 0px;
+    background-color: black;
+    border-radius: 2rem;
+}
+body{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(216, 216, 216);
+}
+
+h1{
+    color: lime;
+    position: relative;
+}
+table{
+    margin: auto;
+    position: relative;
+   
+}
+
+input{
+    font-size: 1.7rem;
+    border-radius: 0.5rem;
+    border-color: azure;
+}
+button{
+    width: 5rem;
+    height:2.5rem;
+    background-color: lime;
+    border-radius: 0.5rem;
+    border-color: azure;
+    font-weight: bold;
+}
+#equal
+{
+    background-color: red;
+}
